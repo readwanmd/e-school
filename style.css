@@ -1,0 +1,133 @@
+section {
+    padding-bottom: 100px;
+}
+
+#btn {
+    padding: 12px 28px;
+    text-decoration: none;
+    background-color: #21b573;
+    border-radius: 33px;
+    height: 43px;
+    width: 110px;
+    color: white;
+    text-align: center;
+}
+
+#btn:hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+.containerbg {
+    background-color: #F0FFF0;
+}
+
+.col-md-5 p {
+    color: #FD511A;
+}
+
+.col-md-5 h1 {
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.col-md-5 .highlight {
+    color: #21b573;
+}
+
+.col-md-5 .botttom-p {
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 36px;
+}
+
+.col-md-7 img {
+    width: 554px;
+    height: 346px;
+}
+
+.icon1 img {
+    width: 66px;
+    height: 85px;
+}
+
+.icon2 img {
+    width: 80px;
+    height: 83px;
+}
+
+.icon3 img {
+    width: 75px;
+    height: 80px;
+}
+
+.icon4 img {
+    width: 68px;
+    height: 76px;
+}
+
+
+.card {
+    margin-top: 50px;
+    padding-top: 50px;
+    background-color: #F8FFFB;
+    border: none;
+}
+
+.card:hover {
+    background-color: white;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+.cources-card {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+.card-top-padding {
+    padding-top: 0;
+}
+
+.img-padding {
+    padding: 15px;
+}
+
+#course-buy-btn {
+    background-color: #21b573;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 33px;
+    text-decoration: none;
+}
+
+#course-buy-btn:hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+}
+
+.sameline {
+    display: inline;
+}
+
+.card-footer {
+    font-size: 14px;
+    border-top: none;
+    background-color: white;
+}
+
+.down {
+    margin-top: 20px;
+}
+
+.last-section {
+    background-color: #282531;
+    color: white;
+}
+
+.last-section .txt-pdng {
+    padding-top: 50px;
+}
+
+li {
+    list-style: none;
+}
