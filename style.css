@@ -76,13 +76,13 @@ section {
 
 .card:hover {
     background-color: white;
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    box-shadow: 0 .5rem 1rem #00000026;
 }
 
 .cources-card {
     background-color: white;
     border-radius: 15px;
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    box-shadow: 0 .5rem 1rem #00000026;
 }
 
 .card-top-padding {
@@ -102,7 +102,7 @@ section {
 }
 
 #course-buy-btn:hover {
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    box-shadow: 0 .5rem 1rem #00000026;
 }
 
 .sameline {
@@ -130,4 +130,45 @@ section {
 
 li {
     list-style: none;
+}
+
+.in-touch {
+    background-color: #21b573;
+    color: white;
+    padding: 50px 25px;
+    border-radius: 10px;
+}
+
+input {
+    border: 3px solid #333333;
+    color: white;
+    margin-top: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.submit-btn {
+    border: none;
+    background-color: white;
+    color: #21b573;
+    margin-top: 20px;
+    padding: 2px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.in-touch:hover {
+    background-color: white;
+    box-shadow: 0 5px 15px #000000be;
+    color: #21b573;
+}
+
+.in-touch:hover .btn-ftr-hvr {
+    background-color: #21b573;
+    color: white;
+}
+
+.in-touch:hover input {
+    background-color: #21b5723b;
+    border: 1px solid #21b573;
 }
